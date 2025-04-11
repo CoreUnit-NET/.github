@@ -8,4 +8,4 @@ Welcome to CoreUnit.NET aka Cunet - a non-profit platform dedicated to innovatio
 
 [Public status page...](https://status.coreunit.net)
 
-[More here...](https://coreunit.net/about/)
+[More about cunet here...](https://coreunit.net/about/)
