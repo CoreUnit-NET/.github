@@ -6,4 +6,6 @@
 
 Welcome to CoreUnit.NET aka Cunet - a non-profit platform dedicated to innovation, collaboration and fostering community connections. Since 2016, we have been a meeting place for people who are passionate about technology, creativity and teamwork.
 
+[Public status page...](https://status.coreunit.net)
+
 [More here...](https://coreunit.net/about/)
